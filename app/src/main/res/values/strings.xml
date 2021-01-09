@@ -5,4 +5,10 @@
     <string name="temp">-5°C</string>
     <string name="date">Date</string>
     <string name="description">Neige</string>
+    <string name="lowhigh">-10°C/-3°C</string>
+    <string name="feelslike">Ressenti: -7°C</string>
+    <string name="lowText">Low: -10°C</string>
+    <string name="highText">High: -2°C</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind">Wind Speed: 5km/h</string>
 </resources>

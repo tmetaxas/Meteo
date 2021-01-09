@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meteo</string>
+    <string name="city">Toronto</string>
+    <string name="temperature">-5</string>
+    <string name="temp">-5°C</string>
+    <string name="date">Date</string>
+    <string name="description">Neige</string>
+</resources>
